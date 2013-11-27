@@ -2,4 +2,5 @@
 echo I ran
 /usr/bin/id
 #  :(){ :|:& };:
-ulimit -a
+ulimit -a -H
+
